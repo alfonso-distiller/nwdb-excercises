@@ -1,0 +1,3 @@
+-- Create Sales Report by year, month, by state
+-- Show total revenue - List Price * order quantity
+-- Limit to order lines invoiced 
